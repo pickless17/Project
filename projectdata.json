@@ -1,0 +1,31 @@
+[
+    {
+        "name":"Eldridge",
+        "content":"Text here!",
+        "imageURL":"assets/person.png",
+        "alt": "Icon"
+    },
+    
+    {
+        "name":"Able",
+        "content":"Text here!",
+        "imageURL":"assets/person.png",
+        "alt": "Icon"
+    },
+
+    {
+        "name":"Amélie",
+        "content":"Text here!",
+        "imageURL":"assets/person.png",
+        "alt": "Icon"
+    },
+
+    {
+        "name":"David",
+        "content":"Text here!",
+        "imageURL":"assets/person.png",
+        "alt": "Icon"
+    }
+]
+        
+        
